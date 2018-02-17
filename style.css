@@ -108,7 +108,11 @@ a {
 	border-width: 0px;
 	font-size: 20px;
 	font-family: arial;
-	padding: 10px;
+	padding: 10px 40px 10px 10px;
+    background-image: url(Google_microphone_logo.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: right 10px center;
 }
 .search-box input:focus {
 	outline: none;
